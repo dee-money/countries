@@ -20,6 +20,7 @@ CO:
   world_region: AMER
   un_locode: CO
   nationality: Colombian
+  nationality_cd: '041'
   postal_code: true
   unofficial_names:
   - Colombia
