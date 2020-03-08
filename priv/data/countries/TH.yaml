@@ -20,6 +20,7 @@ TH:
   world_region: APAC
   un_locode: TH
   nationality: Thai
+  nationality_cd: '01'
   vat_rates:
     standard: 7
     reduced: [0]
