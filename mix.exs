@@ -5,7 +5,7 @@ defmodule Countries.Mixfile do
 
   def project do
     [
-      app: :countries,
+      app: :countries-mirs,
       version: @version,
       elixir: "~> 1.3",
       deps: deps(),
