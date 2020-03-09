@@ -63,7 +63,7 @@ defmodule CountriesMirs do
   # Ensure :yamerl is running
   Application.start(:yamerl)
 
-  @countries Countries.Loader.load()
+  @countries CountriesMirs.Loader.load()
 
   defp countries do
     @countries
