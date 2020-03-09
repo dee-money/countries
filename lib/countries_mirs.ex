@@ -1,4 +1,4 @@
-defmodule Countries do
+defmodule CountriesMirs do
   @doc """
   Returns all countries.
   """

@@ -1,4 +1,4 @@
-defmodule Countries.Country do
+defmodule CountriesMirs.Country do
   defstruct [
     :number,
     :alpha2,

@@ -1,6 +1,6 @@
-defmodule Countries.Subdivisions do
-  import Countries.Utils, only: [to_map: 1]
-  alias Countries.Subdivision
+defmodule CountriesMirs.Subdivisions do
+  import CountriesMirs.Utils, only: [to_map: 1]
+  alias CountriesMirs.Subdivision
 
   def all(country) do
     country.alpha2

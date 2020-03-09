@@ -1,8 +1,8 @@
-defmodule Countries.Loader do
+defmodule CountriesMirs.Loader do
   @moduledoc false
 
-  import Countries.Utils, only: [to_map: 1]
-  alias Countries.Country
+  import CountriesMirs.Utils, only: [to_map: 1]
+  alias CountriesMirs.Country
 
   # loads all country data from our yaml files
   # :yamerl returns a really terrible data structure

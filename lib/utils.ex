@@ -1,4 +1,4 @@
-defmodule Countries.Utils do
+defmodule CountriesMirs.Utils do
   def to_map([item | _] = values) when is_tuple(item),
     do:
       Enum.reduce(values, Map.new(), fn {key, value}, acc ->

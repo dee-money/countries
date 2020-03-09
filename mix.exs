@@ -1,4 +1,4 @@
-defmodule Countries.Mixfile do
+defmodule CountriesMirs.Mixfile do
   use Mix.Project
 
   @version "1.6.0"

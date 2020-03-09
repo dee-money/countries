@@ -1,3 +1,3 @@
-defmodule Countries.Subdivision do
+defmodule CountriesMirs.Subdivision do
   defstruct [:id, :name, :unofficial_names, :translations, :geo]
 end
